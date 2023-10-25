@@ -19,13 +19,6 @@ WeatherZilla is a web-based weather application that provides real-time weather 
 - **Backend**: Python OpenWeatherMap [ https://www.python.org/ ]
 - **Weather Data API**:OpenWeatherMap [ https://openweathermap.org/api ]
 
-## How to Use
-
-1. Visit the WeatherZilla website.
-2. Enter the location (city or ZIP code) for which you want to check the weather.
-3. Click the "Get Weather" button.
-4. WeatherZilla will display the real-time weather information for the specified location.
-
 ## Screenshots
 
 
