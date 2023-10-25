@@ -28,7 +28,7 @@ WeatherZilla is a web-based weather application that provides real-time weather 
 
 ## Screenshots
 
-[Insert screenshots of your application here]
+![Alt text](output.png?raw=true "Weatherzilla - Weather App")
 
 ## Installation
 
@@ -36,15 +36,15 @@ If you want to run WeatherZilla locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies using [package manager, e.g., pip for Python].
-3. Run the application by executing [command, e.g., `python app.py`].
+3. Run the application by executing [command, e.g., `python application.py`].
 
 ## Contribution
 
-We welcome contributions to WeatherZilla. If you'd like to improve the application, fix bugs, or add new features, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions to WeatherZilla. If you'd like to improve the application, fix bugs, or add new features, please follow our (CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+Freminum project for cs50x!
 
 ## Contact
 
