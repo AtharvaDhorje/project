@@ -1,37 +1,54 @@
-# Weatherzilla - Weather App
+# WeatherZilla
+#### Video Demo: [Link to Your Project Demo Video]
+#### Description:
 
-Weatherzilla - Weather App is a simple python based weather search application made using the requests and tkinter library. 
+WeatherZilla is a web-based weather application that provides real-time weather information for any location across the globe. With an intuitive user interface and seamless integration of state-of-the-art weather APIs, WeatherZilla allows users to effortlessly access accurate weather data, including temperature, conditions, humidity, and more. Whether you're planning a trip, checking the weather for your hometown, or simply staying informed about the latest forecasts, WeatherZilla offers a user-friendly solution that brings the world of weather to your fingertips.
 
-![Alt text](app_UI.png?raw=true "Weatherzilla - Weather App")
+## Features
 
-You can fetch data from more than 200,000 weather stations from all around the world.
+- **Real-Time Weather Data**: WeatherZilla fetches the most up-to-date weather information for your chosen location.
+- **User-Friendly Interface**: The application features a clean and intuitive user interface, making it easy for users to retrieve weather data.
+- **Custom Location Search**: Enter the name of any city or ZIP code to get specific weather details.
+- **Responsive Design**: WeatherZilla is accessible on various devices, ensuring you can check the weather wherever you are.
+- **API Integration**: This application integrates with a leading weather API to provide reliable and accurate data.
 
+## Technologies Used
 
-## Requirements
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python with Flask
+- **Weather Data API**: [Name of the Weather API you used, e.g., OpenWeatherMap]
+- **Database**: OpenWeatherMap
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages:
-* requests
-* pillow
+## How to Use
 
-```bash
-pip install requests
-pip install pillow
-```
+1. Visit the WeatherZilla website.
+2. Enter the location (city or ZIP code) for which you want to check the weather.
+3. Click the "Get Weather" button.
+4. WeatherZilla will display the real-time weather information for the specified location.
 
-#### API Note
+## Screenshots
 
-Weatherzilla uses the OpenWeatherMap api to retirve the best possible results for you, so an api key is required for this to securely access data
+[Insert screenshots of your application here]
 
-You can get the api keys from here
-* OpenWeatherMap API : [API List](https://openweathermap.org/api) [Subscribe for free current weather data]
+## Installation
 
-Get the api key and paste it into the api_key variable in the starting of the application.py script
+If you want to run WeatherZilla locally, follow these steps:
 
-## Usage
+1. Clone this repository to your local machine.
+2. Install the necessary dependencies using [package manager, e.g., pip for Python].
+3. Run the application by executing [command, e.g., `python app.py`].
 
-Double click the application.pyw to open the GUI application, then enter the city name in the Entry box, press enter or click the search icon to fetch the weather related data. The application requires an active internet connection to fetch data from the internet. 
+## Contribution
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+We welcome contributions to WeatherZilla. If you'd like to improve the application, fix bugs, or add new features, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
-Please make sure to update tests as appropriate.          
+## License
+
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+
+- Author: Atharva Amit Dhorje
+- Email: atharva14122002@gmail.com
+
+We hope you find WeatherZilla helpful and informative! Enjoy staying updated with real-time weather information.
