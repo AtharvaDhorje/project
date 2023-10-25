@@ -25,7 +25,7 @@ Weatherzilla uses the OpenWeatherMap api to retirve the best possible results fo
 You can get the api keys from here
 * OpenWeatherMap API : [API List](https://openweathermap.org/api) [Subscribe for free current weather data]
 
-Get the api key and paste it into the api_key variable in the starting of the application.pyw script
+Get the api key and paste it into the api_key variable in the starting of the application.py script
 
 ## Usage
 
@@ -34,4 +34,4 @@ Double click the application.pyw to open the GUI application, then enter the cit
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate.          
