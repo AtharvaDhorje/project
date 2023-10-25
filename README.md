@@ -28,6 +28,16 @@ WeatherZilla is a web-based weather application that provides real-time weather 
 
 ## Screenshots
 
+
+
+![Alt text](app_UI.png?raw=true "Weatherzilla - Weather App")
+
+![Alt text](out2.png?raw=true "Weatherzilla - Weather App")
+
+![Alt text](out3.png?raw=true "Weatherzilla - Weather App")\
+
+![Alt text](out4.png?raw=true "Weatherzilla - Weather App")
+
 ![Alt text](output.png?raw=true "Weatherzilla - Weather App")
 
 ## Installation
