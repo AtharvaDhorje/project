@@ -1,6 +1,6 @@
 here's a `CONTRIBUTING.md` file tailored for this project, WeatherApp: WeatherZilla,:
 
-```markdown
+
 # Contributing to WeatherZilla
 
 Thank you for your interest in contributing to WeatherZilla. We welcome contributions from the open-source community to help make this project even better. Whether you're fixing a bug, adding a new feature, or improving the documentation, your contributions are highly valued.
@@ -57,6 +57,6 @@ If you have any questions or need further assistance, please feel free to contac
 - Email: atharva14122002@gmail.com
 
 We greatly appreciate your contributions to WeatherZilla and look forward to collaborating with you!
-```
+
 
 Replace `[your-username]` in the URL with your GitHub username. After creating this changes file, you can add and commit it to your GitHub repository. This file provides guidelines for potential contributors on how to participate in your project.
