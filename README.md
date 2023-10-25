@@ -2,7 +2,7 @@
 
 Weatherzilla - Weather App is a simple python based weather search application made using the requests and tkinter library. 
 
-![Alt text](app.png?raw=true "Weatherzilla - Weather App")
+![Alt text](app_UI.png?raw=true "Weatherzilla - Weather App")
 
 You can fetch data from more than 200,000 weather stations from all around the world.
 
