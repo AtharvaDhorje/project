@@ -15,9 +15,8 @@ WeatherZilla is a web-based weather application that provides real-time weather 
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python with Flask
-- **Weather Data API**: [Name of the Weather API you used, e.g., OpenWeatherMap]
-- **Database**: OpenWeatherMap
+- **Backend**: Python OpenWeatherMap [ https://www.python.org/ ]
+- **Weather Data API**:OpenWeatherMap [ https://openweathermap.org/api ]
 
 ## How to Use
 
